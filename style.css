@@ -1,0 +1,44 @@
+
+/* nav */
+nav li{
+    font-weight: 700;
+    padding-left: 10px ;
+    padding-right: 10px;
+}
+/* intro img */
+.intro-img{
+    width: 100%;
+}
+.intro-sec{
+    background-color: #fffbf0;
+}
+header,nav,.footer-subscribe {
+    background-color: #fffbf0;
+}
+.intro-sec h1{
+    font-family: 'Teko', sans-serif;
+    font-size: 100px; 
+    font-weight: 700;
+}
+/* card */
+.card-img{
+    
+}
+.card-cart h1{
+    font-family: 'Teko', sans-serif;
+    font-size: 70px; 
+    font-weight: 700;
+    color:#363958;
+}
+/*logo-footer */
+.img-footer{
+    width: 100px;
+    height: 100px;
+}
+
+.footer-subscribe{
+    background-color: #f3d7cb;
+}
+/* #fabe4c
+    #363958
+*/
