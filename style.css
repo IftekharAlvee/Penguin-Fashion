@@ -30,6 +30,12 @@ header,nav,.footer-subscribe {
     font-weight: 700;
     color:#363958;
 }
+
+.card-cart-footer{
+    border: none;
+    background-color: white;
+}
+
 /*logo-footer */
 .img-footer{
     width: 100px;
